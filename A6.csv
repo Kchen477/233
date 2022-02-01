@@ -1,0 +1,262 @@
+ID,T1,Year,Haptic Sensations,Correlated User Manipulation,Stimulus,Interfacing method,Ground method,Actuating mechanism,Simple to complex mechanism
+1,tsai2020elastoscillation,2020,1.3.3 Mass Redistribution/Damped Oscillation,8.0 Shaking,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,Others
+2,heo2018thor,2018,Not Specified,Not Specified,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,Others
+3,zenner2019drag,2019,1.2.2 Shape&1.3.1 Mass,8.0 Shaking,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,Others
+4,shigeyama2019transcalibur,2019,1.2.2 Shape&1.3.1 Mass,4.0 Unsupported Holding,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,Others
+5,zenner2017shifty,2017,1.2.2 Shape&1.3.1 Mass,4.0 Unsupported Holding,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+6,je2019aero,2019,1.5 Force/Motion,8.0 Shaking,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+7,pielot2012pocketnavigator,2012,3.0 Abstracted,9.0 Scanning,2.0 Vibration,2.0 Grasped/ fixed gesture,5.0 Ungrounded,4.0 Exsiting Devices,None
+8,arora2019virtualbricks,2019,1.2.2 Shape,All,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+8,arora2019virtualbricks,2019,1.2.2 Shape,All,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,5.0 Modularization
+8,arora2019virtualbricks,2019,1.4  Mechanical Mechanisms,All,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+8,arora2019virtualbricks,2019,1.4  Mechanical Mechanisms,All,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,5.0 Modularization
+9,zhu2019haptwist,2019,1.2.2 Shape,All,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,3.0 Passive,None
+10,strasnick2018haptic,2018,1.4  Mechanical Mechanisms,6.0 Function Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+10,strasnick2018haptic,2018,1.4  Mechanical Mechanisms,7.0 Part Motion Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+11,yamaoka2013depend,2013,3.0 Abstracted,9.1. Tool-Mediated,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+12,hu2019pneu,2019,1.2.2 Shape,5.0 Enclosure,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,5.0 Modularization
+13,teng2018pupop,2018,1.2.2 Shape,5.0 Enclosure,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,5.0 Modularization
+14,suzuki2020lifttiles,2020,1.2.2 Shape,3.0 Static Contact,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,5.0 Modularization
+14,suzuki2020lifttiles,2020,1.2.2 Shape,3.0 Static Contact,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+15,carter2013ultrahaptics,2013,3.0 Abstracted,None,2.0 Vibration,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+16,kim2013tactile,2013,1.1.3 Texture,1.0 Lateral Motion,1.1 Partial Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+17,sonar2016soft,2015,Not Specified,None,2.0 Vibration,Not specified,Not Specified,1.0 Off-The-Shelf Components,None
+18,stanley2014d13,2015,1.1.1 Compliance,All,1.1 Partial Proximate Object,1.0 Encountered/free gesture,Not Specified,1.0 Off-The-Shelf Components,Others
+18,stanley2014d13,2015,1.2.2 Shape,All,1.1 Partial Proximate Object,1.0 Encountered/free gesture,Not Specified,1.0 Off-The-Shelf Components,Others
+19,gugenheimer2016gyrovr,2016,2.0 Effects,None,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,Others
+20,teng2019aarnio,2019,2.0 Effects,None,2.3 Forces/Constraint Across Joint,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+21,ye2019pull,2019,2.0 Effects,None,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,2.0 Material,None
+22,cheng2017mutual,2017,2.0 Effects,None,Others,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,Others,None
+23,cheng2015turkdeck,2015,All,3.0 Static Contact,1.0 Whole Proximate Object,1.0 Encountered/free gesture,4.0 Moving-Off-Body,Others,6.0 Movement Platform + Props
+24,suzuki2020roomshift,2020,All,All,1.0 Whole Proximate Object,1.0 Encountered/free gesture,4.0 Moving-Off-Body,1.0 Off-The-Shelf Components,6.0 Movement Platform + Props
+25,kim2013haptic,2013,1.4  Mechanical Mechanisms,9.1. Tool-Mediated,2.0 Vibration,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+26,whitmire2018haptic,2018,All,3.0 Static Contact,1.1 Partial Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,Others
+27,hoppe2018vrhapticdrones,2018,All,3.0 Static Contact,1.1 Partial Proximate Object,1.0 Encountered/free gesture,4.0 Moving-Off-Body,1.0 Off-The-Shelf Components,None
+28,araujo2016snake,2016,All,3.0 Static Contact,1.1 Partial Proximate Object,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+29,fang2020wireality,2020,1.2.2 Shape,3.0 Static Contact,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,7.0 String + Brake
+30,yatani2012spacesense,2012,3.0 Abstracted,None,2.0 Vibration,3.0 Worn/ free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+31,rekimoto2014traxion,2013,3.0 Abstracted,None,2.3 Forces/Constraint Across Joint,1.0 Encountered/free gesture,5.0 Ungrounded,2.0 Material,None
+32,tsai2019elasticvr,2019,1.1.1 Compliance,2.0 Pressure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,7.0 String + Brake
+32,tsai2019elasticvr,2019,1.1.1 Compliance,2.0 Pressure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,3.0 Elastic Material
+32,tsai2019elasticvr,2019,1.5 Force/Motion,2.0 Pressure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,7.0 String + Brake
+32,tsai2019elasticvr,2019,1.5 Force/Motion,2.0 Pressure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,3.0 Elastic Material
+33,choi2016wolverine,2016,1.2.2 Shape,5.0 Enclosure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,8.0 Track + Brake
+34.1,hinchet2018dextres,2018,None,5.0 Enclosure - Grasp,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,2.0 Material,7.0 String + Brake
+34.2,hinchet2018dextres,2018,None,None,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,None
+35,lee2019torc,2019,1.1.3 Texture,1.0 Lateral Motion,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+35,lee2019torc,2019,1.1.3 Texture,2.0 Pressure,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+35,lee2019torc,2019,1.1.1 Compliance,1.0 Lateral Motion,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+35,lee2019torc,2019,1.1.1 Compliance,2.0 Pressure,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+36.1,choi2017grabity,2017,1.1.1 Compliance,2.0 Pressure,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,8.0 Track + Brake
+36.1,choi2017grabity,2017,1.2.1 Size,2.0 Pressure,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,8.0 Track + Brake
+36.2,choi2017grabity,2017,1.3.1 Mass,4.0 Unsupported Holding,2.1 Stretch On Skin,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,8.0 Track + Brake
+37.1,choi2018claw,2018,1.2.1 Size,Grasp,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+37.1,choi2018claw,2018,1.2.1 Size,9.3 Touch,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+37.1,choi2018claw,2018,1.2.1 Size,2.0 Pressure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+37.1,choi2018claw,2018,1.4  Mechanical Mechanisms,Grasp,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+37.1,choi2018claw,2018,1.4  Mechanical Mechanisms,9.3 Touch,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+37.1,choi2018claw,2018,1.4  Mechanical Mechanisms,2.0 Pressure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+37.2,choi2018claw,2018,1.1.3 Texture,Grasp,2.0 Vibration,3.0 Worn/ free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+37.2,choi2018claw,2018,1.1.3 Texture,9.3 Touch,2.0 Vibration,3.0 Worn/ free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+37.2,choi2018claw,2018,1.1.3 Texture,2.0 Pressure,2.0 Vibration,3.0 Worn/ free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+38,sinclair2019capstancrunch,2019,1.1.1 Compliance,Grasp,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,7.0 String + Brake
+38,sinclair2019capstancrunch,2019,1.1.1 Compliance,9.3 Touch,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,7.0 String + Brake
+38,sinclair2019capstancrunch,2019,1.1.1 Compliance,2.0 Pressure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,7.0 String + Brake
+38,sinclair2019capstancrunch,2019,1.2.1 Size,Grasp,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,7.0 String + Brake
+38,sinclair2019capstancrunch,2019,1.2.1 Size,9.3 Touch,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,7.0 String + Brake
+38,sinclair2019capstancrunch,2019,1.2.1 Size,2.0 Pressure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,7.0 String + Brake
+39,zhou2014rml,2015,1.1.1 Compliance,2.0 Pressure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+39,zhou2014rml,2015,1.1.1 Compliance,3.0 Static Contact,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+39,zhou2014rml,2015,1.2.2 Shape,2.0 Pressure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+39,zhou2014rml,2015,1.2.2 Shape,3.0 Static Contact,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+40,ben2014sensing,2015,Not Specified,9.2 Passive,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+41,sarakoglou2016hexotrac,2016,1.1.1 Compliance,2.0 Pressure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+41,sarakoglou2016hexotrac,2016,1.1.1 Compliance,3.0 Static Contact,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+41,sarakoglou2016hexotrac,2016,1.2.2 Shape,2.0 Pressure,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+41,sarakoglou2016hexotrac,2016,1.2.2 Shape,3.0 Static Contact,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+42,gabardi2016new,2016,1.1.3 Texture,1.0 Lateral Motion,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+42,gabardi2016new,2016,1.1.3 Texture,1.0 Lateral Motion,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+42,gabardi2016new,2016,1.1.3 Texture,3.0 Static Contact,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+42,gabardi2016new,2016,1.1.3 Texture,3.0 Static Contact,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+43,kim2016hapthimble,2016,1.1.3 Texture,1.0 Lateral Motion,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+43,kim2016hapthimble,2016,1.1.3 Texture,1.0 Lateral Motion,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+43,kim2016hapthimble,2016,1.1.3 Texture,3.0 Static Contact,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+43,kim2016hapthimble,2016,1.1.3 Texture,3.0 Static Contact,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+44,chinello2015design,2015,1.1.3 Texture,1.0 Lateral Motion,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+44,chinello2015design,2015,1.1.3 Texture,3.0 Static Contact,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+45,kim2021heterogeneous,2021,1.2.2 Shape,6.0 Function Test,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+46,yoshida2020pocopo,2020,1.1.2 Curvature,3.0 Static Contact,1.1 Partial Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+46,yoshida2020pocopo,2020,1.2.2 Shape,3.0 Static Contact,1.1 Partial Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+47,bianchi2016wearable,2016,1.1.1 Compliance,2.0 Pressure,1.1 Partial Proximate Object,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,3.0 Elastic Material
+48,mazursky2021magnetio,2021,3.0 Abstracted,6.0 Function Test,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,None
+49,nakanishi2014remote,2014,Others,Others,1.0 Whole Proximate Object,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+50,young20215.0 Ungrounded,2021,1.2.2 Shape,3.0 Static Contact,2.0 Vibration,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+50,young20215.0 Ungrounded,2021,1.2.2 Shape,2.0 Pressure,2.0 Vibration,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+50,young20215.0 Ungrounded,2021,1.3.1 Mass,3.0 Static Contact,2.0 Vibration,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+50,young20215.0 Ungrounded,2021,1.3.1 Mass,2.0 Pressure,2.0 Vibration,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+51,yun2019soft,2020,Not Specified,9.2 Passive,2.1 Stretch On Skin,1.0 Encountered/free gesture,2.0 Grounded-On-Different-Body-Part,2.0 Material,1.0 Spatial Distribution
+52,schorr2017fingertip,2017,1.1.3 Texture,2.0 Pressure,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+52,schorr2017fingertip,2017,1.1.3 Texture,4.0 Unsupported Holding,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+52,schorr2017fingertip,2017,1.1.1 Compliance,2.0 Pressure,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+52,schorr2017fingertip,2017,1.1.1 Compliance,4.0 Unsupported Holding,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+52,schorr2017fingertip,2017,1.3.1 Mass,2.0 Pressure,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+52,schorr2017fingertip,2017,1.3.1 Mass,4.0 Unsupported Holding,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+53,chinello2017three,2018,1.1.1 Compliance,3.0 Static Contact,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+53,chinello2017three,2018,1.1.1 Compliance,2.0 Pressure,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+54,leonardis20163,2017,1.1.1 Compliance,3.0 Static Contact,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+54,leonardis20163,2017,1.1.1 Compliance,2.0 Pressure,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+55,chen2019fw,2019,1.1.3 Texture,2.0 Pressure,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,None
+55,chen2019fw,2019,1.1.3 Texture,1.0 Lateral Motion,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,None
+55,chen2019fw,2019,1.1.1 Compliance,2.0 Pressure,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,None
+55,chen2019fw,2019,1.1.1 Compliance,1.0 Lateral Motion,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,None
+56,singhal2021juicy,2021,1.1.1 Compliance,9.2 Passive,2.0 Vibration,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+56,singhal2021juicy,2021,1.5 Force/Motion,9.2 Passive,2.0 Vibration,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+57,quek2015sensory,2015,Not Specified,9.1. Tool-Mediated,2.1 Stretch On Skin,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+58,han2017frictio,2017,3.0 Abstracted,Others,2.3 Forces/Constraint Across Joint,1.0 Encountered/free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,8.0 Track + Brake
+59,culbertson2017waves,2017,3.0 Abstracted,9.2 Passive,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,4.0 Asysmetric Vibration
+60,tong2017magnetic,2018,1.1.1 Compliance,9.1. Tool-Mediated,1.1 Partial Proximate Object,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,2.0 Material,1.0 Spatial Distribution
+61,zarate2020contact,2020,Not Specified,9.1. Tool-Mediated,1.1 Partial Proximate Object,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,2.0 Material,None
+62,foo2019iterative,2019,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,1.0 Spatial Distribution
+63,delazio2018force,2018,3.0 Abstracted,9.2 Passive,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+63,delazio2018force,2018,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+64,zhu2020pneusleeve,2020,3.0 Abstracted,9.2 Passive,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+64,zhu2020pneusleeve,2020,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+65,muthukumarana2020touch,2020,3.0 Abstracted,9.2 Passive,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,1.0 Spatial Distribution
+65,muthukumarana2020touch,2020,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,1.0 Spatial Distribution
+66,han2018hydroring,2018,Not Specified,Not Specified,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,Others
+66,han2018hydroring,2018,Not Specified,Not Specified,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,Others
+66,han2018hydroring,2018,Not Specified,Not Specified,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,Others
+66,han2018hydroring,2018,Not Specified,Not Specified,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,Others
+67,han2020hapbead,2020,Not Specified,Not Specified,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,Others
+67,han2020hapbead,2020,Not Specified,Not Specified,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,Others
+68,hamdan2019springlets,2019,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,5.0 Modularization
+68,hamdan2019springlets,2019,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,1.0 Spatial Distribution
+69,ion2015skin,2015,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+70,tseng2020skin,2020,3.0 Abstracted,9.2 Passive,Others,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+71,je2018pokering,2018,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,1.0 Spatial Distribution
+72,pece2017magtics,2017,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,1.0 Spatial Distribution
+73,gallo2015flexible,2015,1.1.1 Compliance,Not Specified,1.0 Whole Proximate Object,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,1.0 Spatial Distribution
+73,gallo2015flexible,2015,1.2.2 Shape,Not Specified,1.0 Whole Proximate Object,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,1.0 Spatial Distribution
+74,phung2015tactile,2015,Not Specified,Not Specified,2.0 Vibration,1.0 Encountered/free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,Others
+74,phung2015tactile,2015,Not Specified,Not Specified,2.1 Stretch On Skin,1.0 Encountered/free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,Others
+75,marette2017flexible,2017,Not Specified,Not Specified,1.1 Partial Proximate Object,1.0 Encountered/free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,1.0 Spatial Distribution
+76,chen2019development,2019,Not Specified,Not Specified,1.1 Partial Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,2.0 Material,None
+77,vazquez20153d,2015,1.4  Mechanical Mechanisms,All,1.0 Whole Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+78,chang2020kirigami,2020,1.4  Mechanical Mechanisms,All,1.0 Whole Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,3.0 Passive,5.0 Modularization
+79,kato2018double,2018,1.1.3 Texture,1.0 Lateral Motion,Others,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,Others
+80,zheng2019mechamagnets,2019,1.4  Mechanical Mechanisms,All,1.0 Whole Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,3.0 Passive,5.0 Modularization
+81,ogata2015fluxpaper,2015,1.4  Mechanical Mechanisms,All,1.0 Whole Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,3.0 Passive,None
+82,yasu2019magnetact,2019,1.4  Mechanical Mechanisms,All,1.0 Whole Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,3.0 Passive,5.0 Modularization
+83,ogata2018magneto,2018,1.4  Mechanical Mechanisms,All,1.0 Whole Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,3.0 Passive,1.0 Spatial Distribution
+84,yasu2017magnetic,2017,1.4  Mechanical Mechanisms,All,1.0 Whole Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,3.0 Passive,None
+85,yasu2020magnelayer,2020,1.4  Mechanical Mechanisms,All,1.0 Whole Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,3.0 Passive,1.0 Spatial Distribution
+86,mcintosh2019magnetips,2019,3.0 Abstracted,Not Specified,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,2.0 Material,Others
+87,wei2020elastilinks,2020,1.5 Force/Motion,6.0 Function Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,3.0 Elastic Material
+87,wei2020elastilinks,2020,1.5 Force/Motion,6.0 Function Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,3.0 Elastic Material
+87,wei2020elastilinks,2020,1.5 Force/Motion,6.0 Function Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,3.0 Elastic Material
+87,wei2020elastilinks,2020,1.5 Force/Motion,6.0 Function Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+87,wei2020elastilinks,2020,1.5 Force/Motion,6.0 Function Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+87,wei2020elastilinks,2020,1.5 Force/Motion,6.0 Function Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+87,wei2020elastilinks,2020,1.5 Force/Motion,7.0 Part Motion Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,3.0 Elastic Material
+87,wei2020elastilinks,2020,1.5 Force/Motion,7.0 Part Motion Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,3.0 Elastic Material
+87,wei2020elastilinks,2020,1.5 Force/Motion,7.0 Part Motion Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,3.0 Elastic Material
+87,wei2020elastilinks,2020,1.5 Force/Motion,7.0 Part Motion Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+87,wei2020elastilinks,2020,1.5 Force/Motion,7.0 Part Motion Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+87,wei2020elastilinks,2020,1.5 Force/Motion,7.0 Part Motion Test,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+88,chu2021motionring,2021,2.0 Effects,6.0 Function Test,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+89,dementyev2021vhp,2021,1.1.3 Texture,None,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+90,ganet2015haptic,2015,Not Specified,None,2.0 Vibration,Not specified,Not Specified,2.0 Material,1.0 Spatial Distribution
+91,kovacs2020haptic,2020,2.0 Effects,4.0 Unsupported Holding&5.0 Enclosure,1.0 Whole Proximate Object,1.0 Encountered/free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,None
+91,kovacs2020haptic,2020,2.0 Effects,Others,1.0 Whole Proximate Object,1.0 Encountered/free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,None
+91,kovacs2020haptic,2020,2.0 Effects,9.4 Throwing,1.0 Whole Proximate Object,1.0 Encountered/free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,None
+91,kovacs2020haptic,2020,1.2.1 Size&1.3.1 Mass,4.0 Unsupported Holding&5.0 Enclosure,1.0 Whole Proximate Object,1.0 Encountered/free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,None
+91,kovacs2020haptic,2020,1.2.1 Size&1.3.1 Mass,Others,1.0 Whole Proximate Object,1.0 Encountered/free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,None
+91,kovacs2020haptic,2020,1.2.1 Size&1.3.1 Mass,13.0 Throwing,1.0 Whole Proximate Object,1.0 Encountered/free gesture,2.0 Grounded-On-Different-Body-Part,1.0 Off-The-Shelf Components,None
+92,klamka2018pushables,2018,1.4  Mechanical Mechanisms,2.0 Pressure,1.0 Whole Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,3.0 Passive,None
+93,preechayasomboon2020chasm,2020,3.0 Abstracted,2.0 Pressure,2.0 Vibration,2.0 Grasped/ fixed gesture,5.0 Ungrounded,2.0 Material,2.0 Mechanical Mechanism
+93,preechayasomboon2020chasm,2020,3.0 Abstracted,2.0 Pressure,2.1 Stretch On Skin,2.0 Grasped/ fixed gesture,5.0 Ungrounded,2.0 Material,2.0 Mechanical Mechanism
+94,rietzler2017vair,2017,Others,9.2 Passive,Others,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+95,wang2020miniature,2020,Others,Others,1.1 Partial Proximate Object,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,Others
+96,makino2016haptoclone,2016,3.0 Abstracted,3.0 Static Contact,2.0 Vibration,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+97,korres2016haptogram,2016,1.2.2 Shape,9.0 Scanning,2.0 Vibration,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+98,freeman2019enhancing,2019,Others,9.0 Scanning,Others,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+99,pittera2019creating,2019,3.0 Abstracted,9.2 Passive,2.0 Vibration,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+100,ito2019midair,2019,1.4  Mechanical Mechanisms,2.0 Pressure,2.0 Vibration,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+101,barreiro2019ultrasound,2019,Others,All,1.1 Partial Proximate Object,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+102,ablart2019using,2019,3.0 Abstracted,9.2 Passive,1.1 Partial Proximate Object,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+103,sra2019adding,2019,2.0 Effects,9.2 Passive,Others,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,None,None
+104,boldu2019m,2019,2.0 Effects,9.2 Passive,Others,1.0 Encountered/free gesture,Not Specified,1.0 Off-The-Shelf Components,None
+105,lopes2015impacto,2015,2.0 Effects,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,5.0 Electrical Muscle Stimulation,None
+105,lopes2015impacto,2015,2.0 Effects,9.2 Passive,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,5.0 Electrical Muscle Stimulation,None
+106,lopes2017providing,2017,1.3.1 Mass,9.2 Passive,Others,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,5.0 Electrical Muscle Stimulation,None
+107,spiers2016design,2017,3.0 Abstracted,All,1.0 Whole Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+108,siu2020virtual,2020,1.2.2 Shape,9.1. Tool-Mediated,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,8.0 Track + Brake
+109,jang2016haptic,2016,3.0 Abstracted,All,1.1 Partial Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,2.0 Material,1.0 Spatial Distribution
+110,ryu2020elastick,2020,1.3.3 Mass Redistribution/Damped Oscillation,8.0 Shaking,1.0 Whole Proximate Object,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,3.0 Elastic Material
+111,tiwari2018highly,2018,1.1.3 Texture,All,1.1 Partial Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,2.0 Material,1.0 Spatial Distribution
+112,park2019soft,2020,Not Specified,Not Specified,1.1 Partial Proximate Object,Not specified,Not Specified,2.0 Material,None
+113,barreiros2018fluidic,2019,1.2.2 Shape,All,1.0 Whole Proximate Object,1.0 Encountered/free gesture,Not Specified,2.0 Material,5.0 Modularization
+114,mohiuddin2015flexible,2015,Not Specified,Not Specified,2.0 Vibration,Not specified,Not Specified,2.0 Material,
+115,yoon2019hapsense,2019,Not Specified,Not Specified,2.0 Vibration,Not specified,Not Specified,2.0 Material,None
+116,jun2018electroactive,2018,1.1.3 Texture,1.0 Lateral Motion,1.1 Partial Proximate Object,1.0 Encountered/free gesture,Not Specified,2.0 Material,None
+117,huppert2021guidecopter,2021,3.0 Abstracted,None,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,4.0 Moving-Off-Body,1.0 Off-The-Shelf Components,None
+118,zhao2020wearable,2020,Not Specified,Not Specified,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,1.0 Spatial Distribution
+119,roy2017electroionic,2017,Not Specified,Not Specified,1.1 Partial Proximate Object,Not specified,Not Specified,2.0 Material,None
+120,kanik2019strain,2019,Not Specified,Not Specified,1.1 Partial Proximate Object,Not specified,Not Specified,2.0 Material,None
+121,kim2015high,2015,Not Specified,Not Specified,1.1 Partial Proximate Object,Not specified,Not Specified,2.0 Material,None
+122,wang2016soft,2016,Not Specified,Not Specified,2.1 Stretch On Skin,Not specified,Not Specified,2.0 Material,None
+123,carpenter2019healable,2019,Not Specified,Not Specified,2.3 Forces/Constraint Across Joint,3.0 Worn/ free gesture,2.0 Grounded-On-Different-Body-Part,2.0 Material,None
+124,besse2017flexible,2017,Not Specified,Not Specified,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,1.0 Spatial Distribution
+125,hwang2017design,2017,Not Specified,Not Specified,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,Others
+126,shultz2015surface,2015,Not Specified,Not Specified,1.0 Whole Proximate Object,Not specified,Not Specified,2.0 Material,None
+127,gong2018jetto,2018,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,None
+128,pinskier2018development,2018,Not Specified,Not Specified,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,2.0 Material,2.0 Mechanical Mechanism
+129,najmaei2015design,2016,Not Specified,Not Specified,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,2.0 Material,2.0 Mechanical Mechanism
+130,rizzo2015displaying,2015,Others,Not Specified,1.1 Partial Proximate Object,Not specified,Not Specified,2.0 Material,None
+131,nakagaki2016materiable,2016,1.2.2 Shape,All,1.1 Partial Proximate Object,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+131,nakagaki2016materiable,2016,1.1.1 Compliance,All,1.1 Partial Proximate Object,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+132,strohmeier2017generating,2017,1.1.3 Texture,1.0 Lateral Motion,2.0 Vibration,1.0 Encountered/free gesture,Not Specified,1.0 Off-The-Shelf Components,None
+133,sahoo2016tablehop,2016,1.1.3 Texture,1.0 Lateral Motion,1.1 Partial Proximate Object,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,2.0 Material,1.0 Spatial Distribution
+134,strohmeier2016reflex,2016,1.5 Force/Motion,Others,1.0 Whole Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+135,mazursky2020compact,2020,Not Specified,Not Specified,2.1 Stretch On Skin,Not specified,Not Specified,2.0 Material,None
+136,mintchev2019portable,2019,Not Specified,Others,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+137,yu2019skin,2019,Not Specified,Not Specified,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,2.0 Material,1.0 Spatial Distribution
+138,badshah2012gyrotab,2012,3.0 Abstracted,9.2 Passive,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,5.0 Ungrounded,4.0 Exsiting Devices,Others
+138.1,benko2016normaltouch,2016,1.2.2 Shape,3.0 Static Contact,1.1 Partial Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+138.2,benko2016normaltouch,2016,1.2.2 Shape,3.0 Static Contact,1.1 Partial Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+138.2,benko2016normaltouch,2016,1.1.3 Texture,3.0 Static Contact,1.1 Partial Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+139,wilson2014perception,2014,3.0 Abstracted,9.2 Passive,2.0 Vibration,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+140,portolesdiez2021novel,2021,1.1.1 Compliance,1.0 Lateral Motion,2.0 Vibration,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+140,portolesdiez2021novel,2021,1.1.1 Compliance,1.0 Lateral Motion,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+140,portolesdiez2021novel,2021,1.1.2 Curvature,1.0 Lateral Motion,2.1 Stretch On Skin,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+140,portolesdiez2021novel,2021,1.1.2 Curvature,1.0 Lateral Motion,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+141,wang2020position,2020,1.1.1 Compliance,2.0 Pressure,2.3 Forces/Constraint Across Joint,2.0 Grasped/ fixed gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,2.0 Mechanical Mechanism
+142,macgavin2021protactile,2021,3.0 Abstracted,9.2 Passive,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+142,macgavin2021protactile,2021,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+144,shabani2021haptic,2021,3.0 Abstracted,9.2 Passive,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,None
+145,daunizeau2021phononic,2021,1.1.3 Texture,1.0 Lateral Motion,2.0 Vibration,1.0 Encountered/free gesture,5.0 Ungrounded,2.0 Material,None
+146,abe2021remote,2021,1.1.3 Texture,1.0 Lateral Motion,2.0 Vibration,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+147,bhatia2021soma,2021,3.0 Abstracted,9.2 Passive,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,None
+147,bhatia2021soma,2021,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,None
+148,kawazoe2021tactile,2021,3.0 Abstracted,Others,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,None
+149,feick2021visuo,2021,1.5 Force/Motion,7.0 Part Motion Test,1.0 Whole Proximate Object,1.0 Encountered/free gesture,Not Specified,1.0 Off-The-Shelf Components,None
+150,hachisu2014vacuumtouch,2014,3.0 Abstracted,3.0 Static Contact,2.1 Stretch On Skin,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+151,doucette2013effects,2013,3.0 Abstracted,9.2 Passive,2.0 Vibration,3.0 Worn/ free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+152,hoggan2012pressages,2012,3.0 Abstracted,9.2 Passive,2.0 Vibration,1.0 Encountered/free gesture,5.0 Ungrounded,4.0 Exsiting Devices,None
+153,tam2013design,2013,3.0 Abstracted,9.2 Passive,2.0 Vibration,3.0 Worn/ free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+154,park2013roles,2013,3.0 Abstracted,9.2 Passive,1.1 Partial Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+155,monnai2014haptomime,2014,3.0 Abstracted,9.2 Passive,2.1 Stretch On Skin,1.0 Encountered/free gesture,1.0 Grounded-Off-Body,1.0 Off-The-Shelf Components,None
+156,nakagawa2012mimictile,2012,3.0 Abstracted,Others,1.0 Whole Proximate Object,1.0 Encountered/free gesture,5.0 Ungrounded,2.0 Material,Others
+157,lee2012funneling,2012,3.0 Abstracted,9.2 Passive,2.0 Vibration,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,Others
+158,prasad2014haptimoto,2014,3.0 Abstracted,9.2 Passive,2.0 Vibration,3.0 Worn/ free gesture,3.0 Grounded-On-Same-Body-Part,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+159,mullenbach2014exploring,2014,1.1.3 Texture,1.0 Lateral Motion,2.0 Vibration,1.0 Encountered/free gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,1.0 Spatial Distribution
+160,heo2019pseudobend,2019,1.4  Mechanical Mechanisms,7.0 Part Motion Test,2.0 Vibration,2.0 Grasped/ fixed gesture,5.0 Ungrounded,1.0 Off-The-Shelf Components,None
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,, ,,
